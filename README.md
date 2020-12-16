@@ -1,2 +1,3 @@
-# crumpled-balls-3
-Project 28
+# Crumpled Balls 3
+
+Throw the paper ball into dustbin !
